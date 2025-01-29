@@ -38,4 +38,4 @@ Please refer to the OpenSSL licensing terms for the core AES implementation.
 Contributions are welcome. Please submit pull requests or open issues on the GitHub repository.
 
 ## Author
-[Your Name]
+Medhat Kortam & Mohamed Gebril
